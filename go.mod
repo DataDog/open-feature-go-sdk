@@ -2,6 +2,8 @@ module github.com/open-feature/go-sdk
 
 go 1.24.0
 
+toolchain go1.26.2
+
 require (
 	github.com/cucumber/godog v0.15.1
 	github.com/go-logr/logr v1.4.3
